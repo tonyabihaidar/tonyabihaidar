@@ -1,4 +1,4 @@
-# Tony Abi Haidar
+# Tony G. Abi Haidar
 
 Final-year **Computer & Communications Engineering** student at the **American University of Beirut (AUB)**, pursuing a **minor in Mathematics**.
 
